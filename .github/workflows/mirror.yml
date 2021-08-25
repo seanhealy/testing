@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - "SOURCE_BRANCH_NAME"
+      - "trunk"
 
 jobs:
   mirror_job:
